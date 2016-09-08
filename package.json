@@ -1,0 +1,11 @@
+{
+  "name": "noelle",
+  "version": "1.0.0",
+  "description": "week1day5work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
